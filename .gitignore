@@ -57,6 +57,7 @@ latex.out/
 .latexmkrc
 .vscode/*
 .VSCodeCounter/*
+.DS_Store
 
 # achemso
 acs-*.bib
